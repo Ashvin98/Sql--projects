@@ -1,0 +1,31 @@
+
+# covid worldwide
+
+### SQL QUERIES
+
+
+DESCRIPTION:
+This project is an SQL analysis of the COVID-19 worldwide dataset, which contains information on COVID-19 cases, deaths, and recovered worldwide. The dataset was sourced from kaggle.
+
+The COVID-19 worldwide dataset contains the following columns:
+country
+total cases
+total deaths 
+total recovered 
+active cases 
+total tests
+population
+
+
+
+Conclusion
+This project demonstrates the use of SQL in analyzing a real-world dataset. I explored the COVID-19 worldwide dataset and answered several questions using SQL queries, such as identifying the countries with the highest number of cases, deaths, and recovered.   Through SQL queries, I  gained insights into the COVID-19 pandemic and how it has impacted different countries around the world.
+
+
+
+
+
+
+
+
+
